@@ -8,7 +8,7 @@ Praqma is dedicated to providing a harassment-free experience for everyone,
     We do not tolerate harassment of participants in any form.
 
 This code of conduct applies to all Praqma spaces, including
-    [list, eg "our mailing lists and IRC channel"], both online and off.
+    our wiki and Slack channels, both online and off.
     Anyone who violates this code of conduct may be sanctioned or expelled
     from these spaces at the discretion of the Community managers.
 
@@ -74,7 +74,7 @@ Praqma prioritizes marginalized people's safety over privileged people's
 
 If you are being harassed by a member of Praqma, notice that someone else is
     being harassed, or have any other concerns, please contact the Community
-    managers at [email address or other contact point]. If the person who is
+    managers at [info@praqma.com](mailto:info@praqma.com). If the person who is
     harassing you is on the team, they will recuse themselves from handling
     your incident. We will respond as promptly as we can.
 
